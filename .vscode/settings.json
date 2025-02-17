@@ -1,0 +1,17 @@
+{
+  "cSpell.words": [
+    "env",
+    "INITDB",
+    "rabbitmq",
+    "postgresdb",
+    "mongodb",
+    "RABBITMQ_DEFAULT_USER",
+    "RABBITMQ_DEFAULT_PASS",
+    "healthcheck",
+    "rabbitmqctl",
+    "requirepass",
+    "redisdb",
+    "pg_isready",
+    "mongosh"
+  ]
+}
